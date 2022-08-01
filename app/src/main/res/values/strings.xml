@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">Revisão</string>
+<string name="txtNome">Nome</string>
+    <string name="btnResultado">Resultado</string>
+<string name="btnVoltar">Voltar</string>
+
+</resources>
